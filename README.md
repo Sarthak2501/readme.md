@@ -25,3 +25,6 @@ JsonPowerDB is a Real-time, High Performance, Lightweight and Simple to Use, Res
 
 ## Weather
 ![image](https://user-images.githubusercontent.com/79502691/109413265-7e0ff480-79d2-11eb-8a4c-223aaad975fb.png)
+
+# please refer to this link for netbeans code
+https://github.com/Sarthak2501/Project
